@@ -38,6 +38,5 @@ It's Garu, Gadu, or Du :)
   <img src="https://img.shields.io/badge/apache spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/google cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Platform" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gadu04&theme=vision_friendly_dark" alt="GitHub Profile Summary" />
 </p>
 
